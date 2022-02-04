@@ -6,14 +6,10 @@
 		<meta charset="utf=8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<link rel="stylesheet" href="style.css">
-		<style>
-		body {
-		color: green;
-		}
-		</style>
+		
 	</head>
 	
-	<body>
+	<body bgcolor="green">
 		<nav>
 			<label class="left">Donate to save lives from deadly corona virus</label>
 			<ul>

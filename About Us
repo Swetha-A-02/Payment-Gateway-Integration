@@ -8,8 +8,7 @@
 		<link rel="stylesheet" href="style.css">
 		<style>
 		body {
-		background-image:
-		url(globe.jpg);
+		background-image: url(globe.jpg);
 		}
 		</style>
 	</head>

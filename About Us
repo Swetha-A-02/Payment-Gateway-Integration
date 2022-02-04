@@ -7,11 +7,11 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<link rel="stylesheet" href="style.css">
 		<style>
-		div{
+		body{
 		background-image:
 		url('globe.jpg');
 		}
-		</style?
+		</style>
 	</head>
 	
 	<body>

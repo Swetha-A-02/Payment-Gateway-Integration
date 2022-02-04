@@ -3,7 +3,10 @@
 	<head>
 	
 		<title>About</title>
-		
+		<style>
+		body {
+		background-color: green;
+		}
 		
 	</head>
 	

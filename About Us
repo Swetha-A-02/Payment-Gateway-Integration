@@ -6,8 +6,19 @@
 		<meta charset="utf=8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<link rel="stylesheet" href="style.css">
+		<style>
+		div{
+		background-image:
+		url('globe.jpg');
+		}
+		</style?
 	</head>
-	<body background="globe.jpg">
+	<style>
+	body{background-image:
+		url('globe.jpg');
+		}
+	</style>
+	<body>
 		<nav>
 			<label class="left">Donate to save lives from deadly corona virus</label>
 			<ul>

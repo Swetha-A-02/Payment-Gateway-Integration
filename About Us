@@ -1,14 +1,27 @@
 <!DOCTYPE html>
 <html>
-	<head>
-	
-		<title>About</title>
-		<style>
-		body {
-		background-color: #E6E6FA;
-		}
-		</style>
-	</head>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("globe.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style>
+</head>
 	
 	<body>
 		<nav>

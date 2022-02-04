@@ -13,11 +13,7 @@
 		}
 		</style?
 	</head>
-	<style>
-	body{background-image:
-		url('globe.jpg');
-		}
-	</style>
+	
 	<body>
 		<nav>
 			<label class="left">Donate to save lives from deadly corona virus</label>

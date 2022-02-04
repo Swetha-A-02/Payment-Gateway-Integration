@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>About</title>
+		<meta charset="utf=8">
+		<meta name="viewport" content="width=device-width,initial-scale=1">
+		<link rel="stylesheet" href="style.css">
+	</head>
+	<body>
+		<nav>
+			<label class="left">Donate to save lives from deadly corona virus</label>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="contactus.html">Contact Us</a></li>
+				<li><a href="contribute.html">Contribute to save lives</a></li>
+			</ul>
+		</nav>
+		<center>
+			<img class="size" src="images/hunger1.jpg">
+		</center><br><br>
+		<h3 class="styling">"Behind every mask, there is a heart!!!</h3><br>
+			<p class="Let's fight against COVID together."</p><br>
+		
+<br>
+	</body>
+</html>

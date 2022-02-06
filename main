@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+  <frameset rows="17%,83%">
+  <frame src="index.html" >
+  <frame src="home.html">
+  </frameset>
+</html>

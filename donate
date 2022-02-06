@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  		<title>Donation</title>
+  		<meta charset="utf-8">
+  		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+  		<link rel="stylesheet" href="style.css">
+		<style>
+		.button {
+  		border: none;
+  		color: black;
+  		padding: 15px 32px;
+  		text-align: center;
+  		text-decoration: none;
+  		display: inline-block;
+  		font-family: Tahoma;
+  		font-size: 16px;
+  		margin: 4px 2px;
+  		cursor: pointer;
+		}
+		</style>
+	</head>
+	<body bgcolor="Red">
+	<a href="home.html"><button class=button button 2>HOME</button></a>
+		<style>
+			body{
+				background-image: url('donate.jpg');
+				background-size: 100%;
+				background-repeat:no-repeat;
+				background-attachment:fixed;
+				font-family:san-serif;
+				background-position: center;
+			}
+			.container{
+				width:450px;
+				box-shadow: 0 0 3px rgba(255, 0, 0, 0.8);
+				background:#fff;
+				padding:20px;
+				margin: 5% auto;
+				border-radius: 35px;
+				text-align:center; 
+				opacity:0.8;
+			}
+			
+		</style>
+		
+		<div class="container">
+			
+	    <form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_IsGMjeZdhhBVFM" async> </script> </form>
+		</div>
+	</body>
+</html>

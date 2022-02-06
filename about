@@ -1,0 +1,38 @@
+<!Doctype html>
+<html>
+<head>
+<style>
+.button {
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Tahoma;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
+</head>
+
+<body bgcolor="Red">
+	<a href="home.html"><button class=button button 2>HOME</button></a>
+        <h1><center><font color="white"><i>BEHIND EVERY MASK THERE IS A HEART!!</i></font></center></h1>
+        <table>
+        <tr>
+	<td><img src="support.jpg" width="700" height="400"></td>
+					    <td><h2>The Covid-19 has affected lakhs of lives adversely.This is a small effort to help the victims. 
+					     <i><font color=white>When a generous donor decides to help,the recovery begins.</font></i>
+                                             Please donate as much as you can since your valuable contribution can help to save 
+					     those who are grappling for life.
+					     </h2></td>
+
+	
+	</tr></table>
+       
+					
+</body>
+	
+</html>
